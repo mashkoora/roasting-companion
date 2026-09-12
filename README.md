@@ -26,6 +26,18 @@ Sci-fi movies have convinced everyone that artificial intelligence will inevitab
 ### The Solution (that nobody asked for)
 A Flutter-powered animated robot face running on an Android smartphone, paired via Bluetooth Serial to an ESP32 / Arduino chassis with continuous 360° servos. Under normal conditions, it grooves and dances to the beat with animated equalizer eyes while driving choreographed wheel steps (`'D'`). The moment a user says *"Hands up!"*, it freezes the motors (`'Z'`), throws its hands up in terror, begs for mercy in Malayalam (*"അയ്യോ എന്നെ കൊല്ലല്ലേ! കൈ പൊക്കി!"*), fakes a shattered screen, enters a comedic rage mode, and then peacefully resumes grooving.
 
+### 🧠 AI Malayalam Roast Assistant
+
+The robot has an AI-powered conversational assistant that listens to the user and responds in **sarcastic, roasted Malayalam**.
+
+It doesn't just answer questions.
+
+It answers them while questioning your life choices. 😂🔥
+
+**User:** "നീ useful ആണോ?"
+
+**Robot:** "നിന്നെക്കാൾ useful ആണെന്ന് തെളിയിക്കാൻ എനിക്ക് വലിയ ബുദ്ധിമുട്ടൊന്നുമില്ല. 😌"
+
 ---
 
 ## Technical Details
